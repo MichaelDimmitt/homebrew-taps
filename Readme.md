@@ -25,3 +25,5 @@ https://docs.brew.sh/How-to-Create-and-Maintain-a-Tap
 
 ## enjoy 😅
 ```
+other links: (an interesting squashing workflow)
+https://github.com/MichaelDimmitt/quick_and_easy_squashing/blob/master/README.md
