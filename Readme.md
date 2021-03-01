@@ -14,6 +14,9 @@ brew edit reveal
 brew install reveal
 # get the latest sha value
 # update both in this github project.
+brew reinstall reveal;
+# check the update with: brew edit reveal
+# note: if reveal is not installed on your computer... homebrew has a cask named Reveal and even if you have not installed the app it will show that formula with brew edit reveal.
 ```
 
 ## Ohhhhh, so you want to have your own tap of this brew?
