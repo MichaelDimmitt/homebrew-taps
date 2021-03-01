@@ -7,6 +7,14 @@ brew install reveal;
 #### Want more taps? see: 
 https://github.com/MenkeTechnologies/homebrew-taps
 
+### How to quickly update a tap using reveal as an example
+```bash
+brew edit reveal
+# change the url
+brew install reveal
+# get the latest sha value
+# update both in this github project.
+```
 
 ## Ohhhhh, so you want to have your own tap of this brew?
 https://docs.brew.sh/How-to-Create-and-Maintain-a-Tap
