@@ -1,6 +1,6 @@
 ## Install all the things: 
 ```bash
-brew tap michaeldimmitt/taps && 
+brew tap md-command-line/taps && 
 brew install dir && 
 brew install reveal;
 ```
