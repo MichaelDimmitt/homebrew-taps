@@ -5,7 +5,7 @@ class Reveal < Formula
     sha256 "7b196ebb977db6ceec60039818d5c5b36b9a411482e8cf44ba49e51efb25326a"
 
     def install
-        bin.install "reveal"
+        bin.install "bin/reveal"
     end
 
     test do
